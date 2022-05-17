@@ -1,4 +1,4 @@
-# flask application with model response. - iris data and Perceptron model
+# flask application with model response - iris data and Perceptron model
 An example of deploying a sklearn model using Flask using a Docker container.
 
 This tutorial requires basic Docker knowledge.
